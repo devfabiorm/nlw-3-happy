@@ -12,7 +12,7 @@
 <p align="center">
  <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=15C3D6&labelColor=000000" alt="PRs welcome!" />
 
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=15C3D6&labelColor=000000">
+  <img alt="License" src="https://github.com/rocketseat-education/nlw-03-omnistack/blob/master/.github/happy.png">
 </p>
 
 <br>
