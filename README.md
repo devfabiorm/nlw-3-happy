@@ -31,6 +31,13 @@ O Happy é uma aplicação que conecta pessoas à casas de acolhimento instituci
 
 ## 🔖 Layout
 
+Para visualzar o prototipo do layout no Figma você precisará ter uma conta:
+
 - [Layout Web](https://www.figma.com/file/mDEbnoojksG4w8sOxmudh3/Happy-Web)
 - [Layout Mobile](https://www.figma.com/file/X27FfVxAgy9f5IFa7ONlph/Happy-Mobile)
-- [PrintScreens Web] ()
+
+Abaixo estão alguns printscreens do projeto tirado em seus respectivos ambientes:
+
+
+- [PrintScreens Web] (https://github.com/devfabiorm/nlw-3-happy/tree/master/webPS)
+- [PrintScreens Mobile] (https://github.com/devfabiorm/nlw-3-happy/tree/master/monilePS)
