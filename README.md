@@ -36,7 +36,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 O Happy é uma aplicação que conecta pessoas à casas de acolhimento institucional desenvolvido na terceira edição da Next Level Week produzido pela Rocketseat.
 
 ## 🔖 Layout
-
-Nos links abaixo você encontra o layout do projeto web e também do mobile. Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
-
 (Soon...)
