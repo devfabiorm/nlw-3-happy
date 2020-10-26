@@ -27,7 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Happy é uma aplicação que conecta pessoas à casas de acolhimento institucional desenvolvido na terceira edição da Next Level Week produzido pela Rocketseat.
+O Happy é uma aplicação que conecta pessoas à casas de acolhimento institucional desenvolvido na terceira edição da Next Level Week produzido pela [Rocketseat](https://github.com/rocketseat-education/nlw-03-omnistack).
 
 ## 🔖 Layout
 
