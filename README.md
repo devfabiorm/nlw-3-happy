@@ -39,5 +39,5 @@ Para visualzar o prototipo do layout no Figma você precisará ter uma conta:
 Abaixo estão alguns printscreens do projeto tirado em seus respectivos ambientes:
 
 
-- [PrintScreens Web] (https://github.com/devfabiorm/nlw-3-happy/tree/master/webPS)
-- [PrintScreens Mobile] (https://github.com/devfabiorm/nlw-3-happy/tree/master/monilePS)
+- [PrintScreens Web](https://github.com/devfabiorm/nlw-3-happy/tree/master/webPS)
+- [PrintScreens Mobile](https://github.com/devfabiorm/nlw-3-happy/tree/master/monilePS)
